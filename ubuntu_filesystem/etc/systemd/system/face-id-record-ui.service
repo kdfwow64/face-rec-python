@@ -1,0 +1,15 @@
+[Unit]
+Description=face-id-record-ui daemon
+
+[Service]
+RestartSec=5
+Restart=always
+StartLimitInterval=0
+Type=simple
+User=user
+Group=user
+WorkingDirectory=/home/user/code/face-reidentification/
+ExecStart=/usr/bin/python3 /home/user/code/face-reidentification/record_ui.py
+
+[Install]
+WantedBy=multi-user.target

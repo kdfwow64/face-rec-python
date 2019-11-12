@@ -1,0 +1,15 @@
+[Unit]
+Description=face-id-network-connectivity daemon
+
+[Service]
+RestartSec=5
+Restart=always
+StartLimitInterval=0
+Type=simple
+User=user
+Group=user
+WorkingDirectory=/home/user/code/face-reidentification/
+ExecStart=/usr/bin/xvfb-run /home/user/anaconda3/bin/python /home/user/code/face-reidentification/modem_watchdog.py
+
+[Install]
+WantedBy=multi-user.target

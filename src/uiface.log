@@ -1,0 +1,27 @@
+2019-09-24 09:32:26,642 - WARNING - deprecation_wrapper.py:__getattr__:119 - From /home/user/code/face-reidentification/src/utils/label_map_util.py:116: The name tf.gfile.GFile is deprecated. Please use tf.io.gfile.GFile instead.
+
+2019-09-24 09:32:26,662 - WARNING - deprecation_wrapper.py:__getattr__:119 - From /home/user/code/face-reidentification/src/fastdetector.py:34: The name tf.GraphDef is deprecated. Please use tf.compat.v1.GraphDef instead.
+
+2019-09-24 09:32:26,986 - WARNING - deprecation_wrapper.py:__getattr__:119 - From /home/user/code/face-reidentification/src/fastdetector.py:42: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2019-09-24 09:32:26,986 - WARNING - deprecation_wrapper.py:__getattr__:119 - From /home/user/code/face-reidentification/src/fastdetector.py:44: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-24 09:32:30,899 - INFO - uiface.py:__init__:32 - Started UI.
+2019-09-24 09:32:32,482 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:32:35,218 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:32:37,955 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:32:40,692 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:32:43,429 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:32:46,165 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:32:48,902 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:32:51,638 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:32:54,375 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:32:57,111 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:32:59,848 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:33:02,584 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:33:05,321 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:33:08,058 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:33:10,795 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:33:13,531 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:33:16,268 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.
+2019-09-24 09:33:19,004 - WARNING - videofeed.py:_check_setup:21 - Not enough cameras connected. Detected: 1. Expected 2.

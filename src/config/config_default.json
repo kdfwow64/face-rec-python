@@ -1,0 +1,11 @@
+{
+    "detector_sensibility": 0.7,
+    "min_decision_frames": 8,
+    "save_dir": "data",
+    "switch_cameras_on_start": true,
+    "cam1_rotate_deg": 0,
+    "cam2_rotate_deg": 0,
+    "cam1_video_capture_from_file": "",
+    "cam2_video_capture_from_file": "",
+    "use_gps": true
+}

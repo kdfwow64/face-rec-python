@@ -1,0 +1,16 @@
+[Unit]
+Description=face-id daemon
+
+[Service]
+RestartSec=5
+Restart=always
+StartLimitInterval=0
+Type=simple
+User=user
+Group=user
+WorkingDirectory=/home/user/code/face-reidentification/
+ExecStart=/bin/sh -ec "/home/user/code/face-reidentification/start.sh"
+ExecStop=/bin/sh -ec "/home/user/code/face-reidentification/stop.sh"
+
+[Install]
+WantedBy=multi-user.target
